@@ -1,0 +1,19 @@
+INICIO
+1 - Despertador do telefone toca
+2 - Despertei
+3 - Abri o olho
+4 - Peguei o telefone
+5 - Cliquei na opcao soneca? Sim
+	1 - Dormir por mais 10 minutos
+	2 - Despertador do telefone toca
+	3 - Cliquei na opcao soneca? Nao
+6 - Levanto da cama
+7 - Vou ao banheiro
+8 - Vou a cozinha
+9 - Preparo o café da casa
+10 - Me reuno com a familia para o cafe da manhã
+11 - Fim do café da manha
+12 - Troco de roupa
+13 - Saio de casa
+FIM
+	 
